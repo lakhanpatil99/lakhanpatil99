@@ -45,36 +45,33 @@ I don't just complete assignments—I build products with industry-level archite
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Custom Tech Stack
 
-<div align="center">
+I've hand-crafted my technical expertise across six core domains:
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### **Mobile Development** 📱
+**Android Studio** | Java | XML | Material Design  
+Room Database, Firebase Realtime, Performance Optimization
 
-**Mobile**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+### **Web Development** 🌐
+**React** | Node.js | HTML5 | CSS3  
+Responsive Design, Server-side Logic, Progressive Enhancement
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+### **Databases** 🗄️
+**MySQL** | MongoDB | Supabase  
+Schema Design, Query Optimization, Real-time Sync
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+### **Cloud & Infrastructure** ☁️
+**Firebase** | Google Cloud Platform | Deployment Pipelines  
+Serverless Functions, Database Hosting, Analytics
 
-**Cloud & Tools**  
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat-square)
+### **AI & Automation** 🤖
+**AI-Driven Development** | Intelligent Automation | Productivity Tools  
+Leveraging modern AI for smarter solutions
 
-</div>
+### **Core Computer Science** 💻
+**Data Structures & Algorithms** | Operating Systems | Networks  
+**Database Management** | System Design | Problem Solving at Scale
 
 ---
 
@@ -124,16 +121,13 @@ I'm actively seeking opportunities to:
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connect & Collaborate
 
-I'm always interested in discussing software design, architecture patterns, or just talking about building great products.
+I'm always open to discussing software architecture, product design, or exciting opportunities.
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lakhannpatil2211@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhansing-patil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Lakhansing_99)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lakhanpatil99)
+[📧 Email](mailto:lakhannpatil2211@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/lakhansing-patil) • [📸 Instagram](https://instagram.com/Lakhansing_99) • [🐙 GitHub](https://github.com/lakhanpatil99)
 
 </div>
 
