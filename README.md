@@ -23,27 +23,25 @@
 
 ## **BOSCH (GEN AI)**
 ### **Generative AI**
-┌──────────────────────────────────────────────┐
-
-🌍 Working on Global-Scale Technology Solutions  
-🤖 Generative AI, LLMs & Machine Learning  
-🔬 Research & Development of Next-Gen AI Systems  
-💎 Exposure to Enterprise-Level Architecture  
-🚀 Building AI-Powered Intelligent Applications  
-
-🛠️ Tech Environment:
-• Databricks  
-• Azure Data Lake  
-• Cloud & Distributed Systems  
-
-📊 Status: Actively Learning & Contributing  
-
-🎯 Focus Areas:
-• AI / ML  
-• Cloud Computing  
-• Enterprise-Grade Development  
-
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│ 🌍 Working on Global-Scale Technology Solutions     │
+│ 🤖 Generative AI, LLMs & Machine Learning           │
+│ 🔬 Research & Development of Next-Gen AI Systems    │
+│ 💎 Exposure to Enterprise-Level Architecture        │
+│ 🚀 Building AI-Powered Intelligent Applications     │
+│                                                    │
+│ 🛠️ Tech Environment:                               │
+│ • Databricks                                       │
+│ • Azure Data Lake                                  │
+│ • Cloud & Distributed Systems                      │
+│                                                    │
+│ 📊 Status: Actively Learning & Contributing         │
+│                                                    │
+│ 🎯 Focus Areas:                                    │
+│ • AI / ML                                          │
+│ • Cloud Computing                                  │
+│ • Enterprise-Grade Development                     │
+└────────────────────────────────────────────────────┘
 
 **Tech Stack at Bosch:**
 - Generative AI | Machine Learning | LLMs
