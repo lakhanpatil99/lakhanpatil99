@@ -98,6 +98,7 @@
 - Graph theory | Dynamic programming | Pathfinding
 - Beautiful UI/UX | Learning optimized
 - **Status:** Active education platform ✅
+- 🔗 Link : https://www.algomania.in/
 
 ## ⚡ **AI-DRIVEN SOLUTIONS** | Automation & Intelligence
 ```
@@ -106,12 +107,13 @@
 │ ✅ PRODUCTIVITY MULTIPLIERS                 │
 │ ✅ MODERN AI INTEGRATION                    │
 │ ✅ SCALE & IMPACT FOCUSED                   │
-│ ✅ ⭐⭐⭐⭐⭐ RESULTS DRIVEN                  │
+│ ✅ ⭐⭐⭐⭐⭐ RESULTS DRIVEN             │
 └─────────────────────────────────────────────┘
 ```
 - Automation workflows | Decision systems | AI integration
 - Problem solving at scale | Custom solutions
 - **Status:** Evolving with latest AI/ML ✅
+- 🔗Link : https://autonqai-5407587042408609.9.azure.databricksapps.com
 
 ---
 
