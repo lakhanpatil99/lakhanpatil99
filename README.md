@@ -21,8 +21,8 @@
 
 <div align="center">
 
-## **BOSCH GLOBAL SOFTWARE TECHNOLOGIES**
-### **Generative AI Department**
+## **BOSCH**
+### **Generative AI**
 
 ```
 ┌────────────────────────────────────────────────────┐
@@ -426,7 +426,7 @@ So let's write code that makes people smile. 😊
 
 ### **Always Learning • Always Shipping • Always Growing**
 
-### **CURRENT STATUS: BOSCH GEN AI DEPARTMENT | GRADE: A+ | READY: YES**
+### **CURRENT STATUS: BOSCH GEN AI | GRADE: A+ | READY: YES**
 
 ---
 
