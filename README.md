@@ -74,13 +74,15 @@
 │ ✅ REAL USERS, REAL IMPACT                  │
 │ ✅ SECURITY + STUNNING UX                   │
 │ ✅ INDUSTRY-STANDARD ARCHITECTURE           │
-│ ✅ ⭐⭐⭐⭐⭐ USER RATINGS                     │
+│ ✅ ⭐⭐⭐⭐⭐ USER RATINGS               |
+|                                             │
 └─────────────────────────────────────────────┘
 ```
 - Android Studio | Java | Material Design 3
 - Clean Architecture | MVVM Pattern | Firebase Integration
 - Security-first approach | Performance optimized
 - **Status:** Deployed to real users ✅
+- 🔗 Link : https://play.google.com/store/apps/details?id=com.lockletpro&pcampaignid=web_share
 
 ## 🎓 **ALGOMANIA** | Interactive DSA Visualizer
 ```
