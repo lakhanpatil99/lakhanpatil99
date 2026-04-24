@@ -32,7 +32,7 @@
 │  🔬 R&D Focus on Next-Gen Solutions                │
 │  💎 Working with Enterprise-Grade Tech Stack       │
 │  🚀 Building AI-Powered Products
-       Databricks || Azure Datalake                  │
+   🛠️ Databricks || Azure Datalake                  │
 │                                                    │
 │  Status: ✅ ACTIVELY GROWING & LEARNING            |
 │  Focus: AI/ML • Cloud • Enterprise Solutions       │
