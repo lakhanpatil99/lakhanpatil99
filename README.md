@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## **BOSCH**
+## **BOSCH (GEN AI)**
 ### **Generative AI**
 
 ```
