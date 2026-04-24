@@ -23,6 +23,7 @@
 
 ## **BOSCH (GEN AI)**
 ### **Generative AI**
+```
 ┌────────────────────────────────────────────────────┐
 │ 🌍 Working on Global-Scale Technology Solutions     │
 │ 🤖 Generative AI, LLMs & Machine Learning           │
@@ -42,7 +43,7 @@
 │ • Cloud Computing                                  │
 │ • Enterprise-Grade Development                     │
 └────────────────────────────────────────────────────┘
-
+```
 **Tech Stack at Bosch:**
 - Generative AI | Machine Learning | LLMs
 - Cloud Infrastructure | Scalable Systems
