@@ -136,14 +136,14 @@ Time/Space Analysis
 | **Database Design** | ADVANCED | ██████████████░░░░░░ 85% |
 | **Cloud Infrastructure** | INTERMEDIATE | ████████████░░░░░░░░ 80% |
 
-### 🗣️ **Languages**
+### 🗣️ **Languages & Tools**
 ```
 🔴 Java          ████████████████████ EXPERT
 🔵 Kotlin        ███████████████████░ ADVANCED  
 🟢 Python        ██████████████████░░ ADVANCED
 🟡 JavaScript    ██████████████████░░ ADVANCED
-🟣 SQL           ████████████████████ EXPERT
-🟠 TypeScript    █████████████░░░░░░░ INTERMEDIATE
+🟣 TypeScript    █████████████░░░░░░░ INTERMEDIATE
+🟠 SQL           ████████████████████ EXPERT
 ```
 
 ### 🏗️ **Architectures & Patterns**
@@ -177,9 +177,52 @@ Time/Space Analysis
 
 ---
 
-## 🚀 ACHIEVEMENTS & MILESTONES
+# 🔥 CONTRIBUTION STATISTICS
+
+<div align="center">
+
+## 📈 TOTAL CONTRIBUTIONS: **318+**
 
 ```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2024: 27 contributions  ███░░░░░░░░░░░░░░░░░░░░░░░░░░
+2025: 48 contributions  ██████░░░░░░░░░░░░░░░░░░░░░░░
+2026: 243 contributions ██████████████████████████████
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+### **YEARLY BREAKDOWN**
+
+| Year | Contributions | Commits | Repositories | Status |
+|------|---------------|---------|--------------|--------|
+| **2024** | 27 | 4 | 1 | 🟢 Getting Started |
+| **2025** | 48 | Multiple | 3+ | 🟡 Building Momentum |
+| **2026** | 243 | 96+ | 7+ | 🔥 ON FIRE! |
+| **TOTAL** | **318+** | **100+** | **12+** | 🏆 ELITE ACTIVE |
+
+</div>
+
+---
+
+# 💻 MOST USED LANGUAGES
+
+```
+JavaScript   ████████████████████░░ 54.67%
+TypeScript   █████████░░░░░░░░░░░░ 22.45%
+HTML         █████░░░░░░░░░░░░░░░░ 12.96%
+Python       ██░░░░░░░░░░░░░░░░░░░ 4.21%
+Shell        ██░░░░░░░░░░░░░░░░░░░ 3.00%
+Rust         ░░░░░░░░░░░░░░░░░░░░░ 2.71%
+```
+
+---
+
+# 🚀 ACHIEVEMENTS & MILESTONES
+
+```
+✅ 318+ Contributions Across All Years
+✅ 100+ Commits to Multiple Projects
+✅ 12+ Repositories Created & Maintained
 ✅ Shipped Production Apps to Real Users
 ✅ Built Education Platform Used by Thousands  
 ✅ Mastered Android Development from Ground Up
@@ -190,6 +233,7 @@ Time/Space Analysis
 ✅ Zero Critical Bugs in Production
 ✅ Continuous Learning & Growth Mindset
 ✅ Open Source Contributions
+✅ Consistent Contribution Streak
 ```
 
 ---
@@ -207,7 +251,7 @@ Time/Space Analysis
 ```
 🔶 React  🔶 Node.js  🔶 Express  🔶 Full Stack
 🔶 REST APIs  🔶 Real-time Systems  🔶 WebSockets
-🔶 HTML5  🔶 CSS3  🔶 Responsive Design
+🔶 HTML5  🔶 CSS3  🔶 Responsive Design  🔶 TypeScript
 ```
 
 ## **BACKEND & DATABASE**
@@ -259,7 +303,7 @@ Time/Space Analysis
 > Impact matters more than features.
 - Why build it?
 - Who benefits?
-- What problem dies it solve?
+- What problem does it solve?
 - Products over prototypes
 
 ---
@@ -289,7 +333,7 @@ Time/Space Analysis
 
 ---
 
-# 📈 GITHUB STATISTICS
+# 📊 GITHUB STATISTICS
 
 <div align="center">
 
@@ -336,10 +380,14 @@ So let's write code that makes people smile. 😊
 
 ### **Always Learning • Always Shipping • Always Growing**
 
-Built with 💻 Passion 🔥 Coffee ☕ Excellence 🏆
+### **GRADE: A+ | STATUS: ELITE DEVELOPER | READY: YES**
 
 ---
 
-*Last Updated: 2024 | Profile v2.0 | Ready for Impact*
+Built with 💻 Passion 🔥 Coffee ☕ Excellence 🏆
+
+*Last Updated: 2026 | Profile v3.0 | Continuously Evolving*
+
+**318+ Contributions • 100+ Commits • 12+ Repositories • 100% Dedication**
 
 </div>
