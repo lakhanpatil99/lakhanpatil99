@@ -24,18 +24,24 @@
 ## **BOSCH (GEN AI)**
 ### **Generative AI**
 
-```
-┌────────────────────────────────────────────────────┐
+```┌────────────────────────────────────────────────────┐
 │                                                    │
-│  🌍 Global Tech Innovation at Scale                │
-│  🤖 Generative AI & Machine Learning               │
-│  🔬 R&D Focus on Next-Gen Solutions                │
-│  💎 Working with Enterprise-Grade Tech Stack       │
-│  🚀 Building AI-Powered Products
-   🛠️ Databricks || Azure Datalake                  │
+│  🌍 Working on Global-Scale Technology Solutions    │
+│  🤖 Generative AI, LLMs & Machine Learning          │
+│  🔬 Research & Development of Next-Gen AI Systems   │
+│  💎 Exposure to Enterprise-Level Architecture       │
+│  🚀 Building AI-Powered Intelligent Applications    │
 │                                                    │
-│  Status: ✅ ACTIVELY GROWING & LEARNING            |
-│  Focus: AI/ML • Cloud • Enterprise Solutions       │
+│  🛠️ Tech Environment:                              │
+│     • Databricks                                   │
+│     • Azure Data Lake                              │
+│     • Cloud & Distributed Systems                  │
+│                                                    │
+│  📊 Status: Actively Learning & Contributing        │
+│  🎯 Focus Areas:                                   │
+│     • AI / ML                                      │
+│     • Cloud Computing                              │
+│     • Enterprise-Grade Development                 │
 │                                                    │
 └────────────────────────────────────────────────────┘
 ```
