@@ -387,11 +387,6 @@ Rust         ░░░░░░░░░░░░░░░░░░░░░ 2.7
 
 </div>
 
-## **Contribution Heatmap**
-
-[![GitHub Contributions](https://img.shields.io/badge/GitHub-318%2B%20Contributions-00FF88?style=flat-square&logo=github&logoColor=white)](https://github.com/lakhanpatil99)
-
-**View full stats on GitHub:** [github.com/lakhanpatil99](https://github.com/lakhanpatil99)
 
 </div>
 
