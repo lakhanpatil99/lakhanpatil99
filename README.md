@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## **BOSCH (GEN AI)**
+## **BOSCH (QMM 1)**
 ### **Generative AI**
 ```
 ┌────────────────────────────────────────────────────┐
@@ -439,7 +439,7 @@ So let's write code that makes people smile. 😊
 
 ---
 
-**Currently Working:** Generative AI Solutions at Bosch Global Software  
+**Currently Working:** Generative AI Solutions at Bosch 
 **318+ Contributions • 100+ Commits • 12+ Repositories • 100% Dedication**
 
 Built with 💻 Passion 🔥 Coffee ☕ Excellence 🏆
