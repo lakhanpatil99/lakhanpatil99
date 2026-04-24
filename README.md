@@ -387,19 +387,6 @@ Rust         ░░░░░░░░░░░░░░░░░░░░░ 2.7
 
 </div>
 
----
-
-# 📈 GITHUB STATISTICS
-
-<div align="center">
-
-## **Language Distribution**
-
-**JavaScript:** 54.67% | **TypeScript:** 22.45% | **HTML:** 12.96%  
-**Python:** 4.21% | **Shell:** 3.00% | **Rust:** 2.71%
-
----
-
 ## **Contribution Heatmap**
 
 [![GitHub Contributions](https://img.shields.io/badge/GitHub-318%2B%20Contributions-00FF88?style=flat-square&logo=github&logoColor=white)](https://github.com/lakhanpatil99)
