@@ -1,5 +1,5 @@
 # 🎯 LAKHANSING PATIL
-## **AI Developer at Bosch | Android Architect | Algorithm Wizard**
+## **AI Dev Intern at Bosch | Android Architect | Algorithm Wizard**
 
 <div align="center">
 
