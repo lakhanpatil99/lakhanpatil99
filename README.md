@@ -22,7 +22,7 @@
 <div align="center">
 
 ## **BOSCH (QMM 1)**
-### **Generative AI**
+### **Agentic  AI**
 ```
 ┌────────────────────────────────────────────────────┐
 │ 🌍 Working on Global-Scale Technology Solutions     │
