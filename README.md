@@ -228,7 +228,7 @@ Enterprise Scale
 
 <div align="center">
 
-## 📈 TOTAL CONTRIBUTIONS: **318+**
+## 📈 TOTAL CONTRIBUTIONS: **2000+**
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -242,10 +242,10 @@ Enterprise Scale
 
 | Year | Contributions | Commits | Repositories | Status |
 |------|---------------|---------|--------------|--------|
-| **2024** | 27 | 4 | 1 | 🟢 Getting Started |
+| **2024** | 270 | 40 | 10 | 🟢 Getting Started |
 | **2025** | 48 | Multiple | 3+ | 🟡 Building Momentum |
-| **2026** | 650 | 96+ | 119+ | 🔥 ON FIRE! |
-| **TOTAL** | **650+** | **48+** | **27+** | 🏆 ELITE ACTIVE |
+| **2026** | 1800+ | 96+ | 119+ | 🔥 ON FIRE! |
+| **TOTAL** | **2000+** | **48+** | **27+** | 🏆 ELITE ACTIVE |
 
 </div>
 
@@ -441,7 +441,7 @@ So let's write code that makes people smile. 😊
 ---
 
 **Currently Working:** Generative AI Solutions at Bosch 
-**650+ Contributions • 100+ Commits • 12+ Repositories • 100% Dedication**
+**650+ Contributions • 1200+ Commits • 432+ Repositories • 100% Dedication**
 
 
 *Last Updated: 2026 | Profile v4.0 | Continuously Evolving with AI/ML Focus*
