@@ -1,5 +1,5 @@
 # 🎯 LAKHANSING PATIL
-## **AI Dev Intern at Bosch | Android Architect | Algorithm Wizard**
+## **SDE  Intern at Amazon | Android Architect | Algorithm Wizard**
 
 <div align="center">
 
@@ -21,8 +21,8 @@
 
 <div align="center">
 
-## **BOSCH (QMM 1)**
-### ** Agentic  AI**
+## **Amazon**
+### ** SDE Intern**
 ```
 ┌────────────────────────────────────────────────────┐
 │ 🌍 Working on Global-Scale Technology Solutions     │
@@ -44,7 +44,7 @@
 │ • Enterprise-Grade Development                     │
 └────────────────────────────────────────────────────┘
 ```
-**Tech Stack at Bosch:**
+**Tech Stack at Amazon:**
 - Generative AI | Machine Learning | LLMs
 - Cloud Infrastructure | Scalable Systems
 - Enterprise Solutions | Production-Grade Code
